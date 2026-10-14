@@ -4,8 +4,7 @@ A Persian carpet for your desktop. Slide, curl, roll and unfurl it to cover or r
 
 ## Download
 
-**[Download Rug for macOS](https://github.com/KhalidotAI/rug-macos/releases/latest)**
-
+**[Download Rug for macOS](https://github.com/KhalidotAI/rug-macos/releases/tag/v2.5.0-preview)**
 On the release page, open **Assets** and download `Rug-2.5-universal.dmg`. You do not need Git or Xcode.
 
 **Requirements:** macOS 12 or later. Supports Apple Silicon and Intel Macs.
